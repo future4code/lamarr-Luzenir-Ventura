@@ -1,0 +1,2 @@
+# Apendizados da semana
+Nessa semana eu aprendi um pouco sobre terminal como usar alguns comandos no git bash. Hoje estou tentando aprender um pouco sobre o editor de texto VSCode, A primeira coisa que fiz foi configurar o VSCode para o Portugues.Agora estou tentando fazer o exercício, sei que estou atrasada mas estou no meu tempo. Como estou começando do zero acho tudo **muito intenso**muito rapido não estou conseguindo entrar no rítimo da turma.
